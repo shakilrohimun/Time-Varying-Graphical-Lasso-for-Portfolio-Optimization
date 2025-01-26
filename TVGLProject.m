@@ -5,7 +5,7 @@
 %% ------------------------------------------- Data Import ----------------------------------- %%
 
 % To import the data, simply drag or place the .csv file into the Current Folder"
-data_pure = readtable('stock_data_TVGL.csv');
+data_pure = readtable('stockdata49.csv');
 prices = data_pure;
 
 %% --------------------------------- Verification & Preprocessing ---------------------------- %%
